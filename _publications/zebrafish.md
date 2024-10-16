@@ -8,7 +8,7 @@ venue: 'Advanced Science, 2023, 2301136.'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/advs.202301136'
 year: '2023'
 first_author: 'no'
-teaser: 'http://zyx45889.github.io/images/publications/unet.png'
+teaser: 'http://zyx45889.github.io/images/publications/unet.jpg'
 ---
 
 <b>Abstract:</b>
