@@ -5,7 +5,7 @@ permalink: /artgallery/
 author_profile: true
 ---
 
-Here, I have posted some of my recent doodles. I hope you will enjoy them too ~
+Here, I have posted some of my recent paintings. I hope you will enjoy them too ~
 
 
 
@@ -66,4 +66,5 @@ Her name is Alice. In traditional fantasy stories, the brave will defeat the dra
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Weedy.jpg"><div align="center"> <a> Weedy from Arknights. </a></div></div>
 </div>
 <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Weedy2.jpg"><div align="center"> <a> Weedy from Arknights. </a></div></div>
+<div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Sofia.jpg"><div align="center"> <a> Sofia from Punishing: Grey Raven. </a></div></div>
 </div>
