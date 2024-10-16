@@ -3,7 +3,7 @@ title: "Real-time Acquisition and Reconstruction of Dynamic Volumes with Neural 
 collection: publications
 permalink: /publication/dynamic_smoke
 excerpt: '**Yixin Zeng\***, Zoubin Bi*(*contribute equally), Mingrui Yin, Xiang Feng, Kun Zhou, Hongzhi Wu'
-date: 2021-08-30
+date: 2024-06-17
 venue: 'CVPR 2024'
 paperurl: 'https://svbrdf.github.io/publications/realtimedynamic/realtimedynamic.pdf'
 code: 'https://github.com/zyx45889/RealtimeDynamic'
