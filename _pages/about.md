@@ -47,7 +47,7 @@ I paint in my spare time. I have posted some of my paintings on my website's [ar
 
    Changtong Liu, Yingchao Wang, **Yixin Zeng**, Zirong Kang, Hong Zhao, Kun Qi, Hongzhi Wu, Lu Zhao and Yi Wang
 
-2. [Tac-Anticipator: Visual Analytics of Anticipation Behaviors in Table Tennis Matches]([https://onethousandwu.com/publication/lpff-dataset](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14825))
+2. [Tac-Anticipator: Visual Analytics of Anticipation Behaviors in Table Tennis Matches](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14825)
 
    Computer Graphics Forum, 2023.
 
