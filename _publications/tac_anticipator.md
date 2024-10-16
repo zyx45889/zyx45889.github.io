@@ -8,7 +8,7 @@ venue: Computer Graphics Forum, 2023.
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14825'
 year: '2023'
 first_author: 'no'
-teaser: 'https://github.com/zyx45889/zyx45889.github.io/images/publications/tac.jpg'
+teaser: 'https://zyx45889.github.io/images/publications/tac.jpg'
 ---
 
 <b>Abstract:</b>
