@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/zebrafish
 excerpt: 'Changtong Liu, Yingchao Wang, **Yixin Zeng**, Zirong Kang, Hong Zhao, Kun Qi, Hongzhi Wu, Lu Zhao and Yi Wang'
 date: 2023-08-07
-venue: 'Advanced Science, 2023, 2301136.'
+venue: 'Advanced Science, 2301136.'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/advs.202301136'
 year: '2023'
 first_author: 'no'
