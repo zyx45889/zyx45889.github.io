@@ -12,7 +12,7 @@ supplementary_materials: 'https://gsrelight.github.io/pdfs/GS3_Supplemental.pdf'
 project_page: 'https://gsrelight.github.io/'
 year: '2024'
 first_author: 'no'
-teaser: 'http://zyx45889.github.io/images/publications/rgs.png'
+teaser: 'http://zyx45889.github.io/images/publications/rgs.jpg'
 ---
 
 <b>Abstract:</b>
