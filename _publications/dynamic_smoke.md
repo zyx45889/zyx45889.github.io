@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/dynamic_smoke
 excerpt: '**Yixin Zeng\***, Zoubin Bi*(*contribute equally), Mingrui Yin, Xiang Feng, Kun Zhou, Hongzhi Wu'
 date: 2024-06-17
-venue: 'CVPR 2024'
+venue: 'CVPR'
 paperurl: 'https://svbrdf.github.io/publications/realtimedynamic/realtimedynamic.pdf'
 code: 'https://github.com/zyx45889/RealtimeDynamic'
 video: 'https://www.youtube.com/watch?v=XoTYTGSueh4'
