@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yixin Zeng (曾一欣), now serving as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/) (June 2024 - Dec 2024), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/). Concurrently, I am a CS master student (since 2022) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022.
+I am Yixin Zeng (曾一欣), now serving as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/) (Jun. 2024 - Dec. 2024), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/). Concurrently, I am a CS master student (since 2022) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022.
 
 
 **Research Interest:** Computer Graphics, and Computational Imaging.
@@ -25,9 +25,10 @@ I paint in my spare time. I have posted some of my paintings on my website's [ar
 
 
 ## 2024 
+
 1. [Real-time Acquisition and Reconstruction of Dynamic Volumes with Neural Structured Illumination](https://svbrdf.github.io/publications/realtimedynamic/project.html)
 
-  CVPR 2024
+   CVPR 2024
 
    **Yixin Zeng\***, Zoubin Bi\*(*contribute equally), Mingrui Yin, Xiang Feng, Kun Zhou, Hongzhi Wu
 
