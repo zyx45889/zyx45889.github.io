@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/3dgs
 excerpt: 'Zoubin Bi\*, **Yixin Zeng\***, Chong Zeng, Fan Pei,Xiang Feng , Kun Zhou and Hongzhi Wu'
 date: 2024-12-02
-venue: 'SIGGRAPH Asia, 2024'
+venue: 'SIGGRAPH Asia'
 paperurl: 'https://gsrelight.github.io/pdfs/GS3.pdf'
 code: 'Coming soom'
 video: 'https://www.youtube.com/watch?v=PrG6tcpirmU'
