@@ -3,7 +3,7 @@ title: "GS^3: Efficient Relighting with Triple Gaussian Splatting"
 collection: publications
 permalink: /publication/3dgs
 excerpt: 'Zoubin Bi\*, **Yixin Zeng\***, Chong Zeng, Fan Pei,Xiang Feng , Kun Zhou and Hongzhi Wu'
-date: To be published
+date: 2024-12-02
 venue: 'SIGGRAPH Asia, 2024'
 paperurl: 'https://gsrelight.github.io/pdfs/GS3.pdf'
 code: 'Coming soom'
