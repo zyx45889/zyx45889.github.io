@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "zyx45889"
 title_separator          : "-"
 name                     : &name "Yixin Zeng"
-description              : &description "Visiting student researcher at KAIST & second year master student in State Key Lab of CAD&CG at Zhejiang University"
+description              : &description "Second year master student in State Key Lab of CAD&CG at Zhejiang University"
 url                      : https://zyx45889.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zyx45889/zyx45889.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Yixin Zeng"
   avatar           : "profile_yixin.png"
   avatar_des       : ""
-  bio              : "Visiting student researcher at KAIST, <br /> second year master student in State Key Lab of CAD&CG at Zhejiang University"
+  bio              : "Second year master student in State Key Lab of CAD&CG at Zhejiang University"
   location         : "Hangzhou, China"
   pixiv            :
   bilibili         : 
