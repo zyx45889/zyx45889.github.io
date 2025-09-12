@@ -45,11 +45,11 @@ Her name is Alice. In traditional fantasy stories, the brave will defeat the dra
 
 <div class="blog_photo_album_grid">
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc1.jpg"><div align="center"> <a> Korean idol. </a></div></div>
-  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc2.jpg"><div align="center"> <a> Kimono. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc3.jpg"><div align="center"> <a> Sunshine. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc4.jpg"><div align="center"> <a> Winter cloth. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc5.jpg"><div align="center"> <a> CD cover with the help of AI. </a></div></div>
-  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/oc6.jpg"><div align="center"> <a> Cookies. </a></div></div>
+  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/ocfamily.png"><div align="center"> <a> Happy Valentine's Day. </a></div></div>
+  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/me.png"><div align="center"> <a> It's me in Korea. </a></div></div>
 </div>
 
 ## Fan art
@@ -63,7 +63,8 @@ Her name is Alice. In traditional fantasy stories, the brave will defeat the dra
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Oberon.jpg"><div align="center"> <a> Oberon from Fate Grand Order. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/OguriCap.jpg"><div align="center"> <a> OguriCap from Pretty Derby. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/StardewValley.jpg"><div align="center"> <a> My character in StardewValley. </a></div></div>
-  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Weedy.jpg"><div align="center"> <a> Weedy from Arknights. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Weedy2.jpg"><div align="center"> <a> Weedy from Arknights. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Sofia.jpg"><div align="center"> <a> Sofia from Punishing: Grey Raven. </a></div></div>
+  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Cartethyia.jpg"><div align="center"> <a> Cartethyia from Wuthering Waves. </a></div></div>
+  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Castorice.jpg"><div align="center"> <a> Castorice from Honkai Star Rail. </a></div></div>
 </div>
