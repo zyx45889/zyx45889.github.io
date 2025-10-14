@@ -21,7 +21,7 @@ Jun. 2024 - Dec. 2024
 
 ## Master in Computer Science and Technology
 
-Sep. 2022 - Exp. Jun. 2025
+Sep. 2022 - Jun. 2025
 
 - State Key Lab of CAD&CG, Zhejiang University.
 - Advisor: Prof. [Hongzhi Wu](https://hongzhiwu.com/)

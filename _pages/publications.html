@@ -11,6 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% if post.year == '2025' and post.first_author == 'yes' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% if post.year == '2025' and post.first_author == 'no' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
 
 {% for post in site.publications reversed %}
   {% if post.year == '2024' and post.first_author == 'yes' %}

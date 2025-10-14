@@ -23,6 +23,13 @@ I paint in my spare time. I have posted some of my paintings on my website's [ar
 
 # Publications
 
+## 2025
+
+1. Designing and Fabricating Color BRDFs with Differentiable Wave Optics
+
+   TOG 2025
+
+   **Yixin Zeng**, Kiseok Choi, Hadi Amata, Kaizhang Kang, Wolfgang Heidrich, Hongzhi Wu, Min H. Kim
 
 ## 2024 
 
