@@ -69,5 +69,5 @@ Her name is Alice. In traditional fantasy stories, the brave will defeat the dra
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Cartethyia.jpg"><div align="center"> <a> Cartethyia from Wuthering Waves. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Castorice.jpg"><div align="center"> <a> Castorice from Honkai Star Rail. </a></div></div>
   <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/Lucia.jpg"><div align="center"> <a> Lucia from Zenless Zone Zero. </a></div></div>
-  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/maochang.jpg"><div align="center"> <a> 60-day sketch challenge. </a></div></div>
+  <div class="blog_photo_album_block"><img src="http://zyx45889.github.io/images/art/maochang.png"><div align="center"> <a> 60-day sketch challenge. </a></div></div>
 </div>
