@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yixin Zeng (曾一欣), a CS master student (since 2022) at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022. From June to November 2024, I served as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/).
+I am Yixin Zeng (曾一欣), a PhD candidate (since 2026) at [ETH computational design lab](https://cdl.ethz.ch/), under the supervision of Prof. Bernd Bickel. I did my master's study at the [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn), Zhejiang University, under the supervision of Prof. [Hongzhi Wu](https://hongzhiwu.com/). Prior to this, I accomplished my Bachelor's degree in Computer Science and Technology, graduating from the Chu Kochen College at Zhejiang University in 2022. From June to November 2024, I served as an visiting student researcher at [KAIST](https://www.kaist.ac.kr/en/), working with Prof. [Min H. Kim](https://vclab.kaist.ac.kr/minhkim/).
 
 
 **Research Interest:** Computer Graphics, and Computational Imaging.
@@ -25,7 +25,7 @@ I paint in my spare time. I have posted some of my paintings on my website's [ar
 
 ## 2025
 
-1. Designing and Fabricating Color BRDFs with Differentiable Wave Optics
+1. [Designing and Fabricating Color BRDFs with Differentiable Wave Optics](https://vclab.kaist.ac.kr/siggraphasia2025p1/index.html)
 
    TOG 2025
 

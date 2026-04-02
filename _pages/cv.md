@@ -13,6 +13,19 @@ redirect_from:
 
 # Education and Experience
 
+## PhD in Computational Design
+
+Apr. 2026 - Now
+
+- ETH computational design lab.
+- Advisor: Prof. Bernd Bickel.
+
+## Intern in Hoyoverse
+
+Feb. 2026 - Mar. 2026
+
+- Rendering research
+
 ## Visiting student researcher at KAIST
 
 Jun. 2024 - Dec. 2024
